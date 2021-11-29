@@ -40,3 +40,11 @@ delete mg1;
 return 0; 
 ```
 
+
+
+상속
+```
+class child : public mother
+{
+}
+```
