@@ -48,3 +48,17 @@ class child : public mother
 {
 }
 ```
+
+```
+class mainGame
+{
+public:
+//그냥 아이템 사용하는 함수
+ void UseItem();
+ //코인의 가스를 소모하는 함수
+ void UseItem(Int gas);
+ 
+ mainGame();
+ ~mainGame();
+ }
+```
