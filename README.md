@@ -72,3 +72,12 @@ _vNum.push_back(122);
 _vNum.push_back(122222);
 
 ```
+```
+///백터안에 데이터의 개수를 알려면 size()
+cout <<"백처안에 데이터 갯수:"<<__vNum.size() << end1;
+
+for (int i =0; i<_vNum.size(); ++i)
+{
+}
+
+```
