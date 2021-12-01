@@ -62,3 +62,13 @@ public:
  ~mainGame();
  }
 ```
+
+```
+vrectorTest::vectorTest()
+{
+//뱍터에 데이터를 삽입하려면 push_back()
+_vNum.push_back(1);
+_vNum.push_back(122);
+_vNum.push_back(122222);
+
+```
